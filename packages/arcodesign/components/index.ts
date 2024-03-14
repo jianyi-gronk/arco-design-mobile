@@ -22,6 +22,7 @@ export { default as Ellipsis } from './ellipsis';
 export { default as Form } from './form';
 export { default as Grid } from './grid';
 export { default as Image } from './image';
+export { default as FilePicker } from './file-picker';
 export { default as ImagePicker } from './image-picker';
 export { default as ImagePreview } from './image-preview';
 export { default as IndexBar } from './index-bar';
