@@ -11,7 +11,8 @@
         "module": "es6",
         "target": "es5",
         "declaration": true,
-        "lib": ["es5", "dom"]
+        "lib": ["es5", "dom"],
+        "skipLibCheck": true
     },
     "include": [
         "packages/arcodesign/components/**/*.ts",

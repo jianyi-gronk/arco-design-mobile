@@ -1,4 +1,4 @@
-## 组件示例1
+## 基础用法 @en{Basic Usage}
 
 #### 1
 
@@ -6,8 +6,6 @@
 import { FilePicker } from '@arco-design/mobile-react';
 
 export default function FilePickerDemo() {
-    return (
-        <FilePicker />
-    );
+    return <FilePicker />;
 }
 ```
